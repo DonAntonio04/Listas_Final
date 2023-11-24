@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\Lista_Con_ObjetoPersona\Lista_Con_ObjetoPersona\bin\Debug\net6.0\Lista_Con_ObjetoPersona.exe
+C:\Users\hp\source\repos\Lista_Con_ObjetoPersona\Lista_Con_ObjetoPersona\bin\Debug\net6.0\Lista_Con_ObjetoPersona.deps.json
+C:\Users\hp\source\repos\Lista_Con_ObjetoPersona\Lista_Con_ObjetoPersona\bin\Debug\net6.0\Lista_Con_ObjetoPersona.runtimeconfig.json
+C:\Users\hp\source\repos\Lista_Con_ObjetoPersona\Lista_Con_ObjetoPersona\bin\Debug\net6.0\Lista_Con_ObjetoPersona.dll
+C:\Users\hp\source\repos\Lista_Con_ObjetoPersona\Lista_Con_ObjetoPersona\bin\Debug\net6.0\Lista_Con_ObjetoPersona.pdb
+C:\Users\hp\source\repos\Lista_Con_ObjetoPersona\Lista_Con_ObjetoPersona\obj\Debug\net6.0\Lista_Con_ObjetoPersona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Lista_Con_ObjetoPersona\Lista_Con_ObjetoPersona\obj\Debug\net6.0\Lista_Con_ObjetoPersona.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Lista_Con_ObjetoPersona\Lista_Con_ObjetoPersona\obj\Debug\net6.0\Lista_Con_ObjetoPersona.AssemblyInfo.cs
+C:\Users\hp\source\repos\Lista_Con_ObjetoPersona\Lista_Con_ObjetoPersona\obj\Debug\net6.0\Lista_Con_ObjetoPersona.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Lista_Con_ObjetoPersona\Lista_Con_ObjetoPersona\obj\Debug\net6.0\Lista_Con_ObjetoPersona.dll
+C:\Users\hp\source\repos\Lista_Con_ObjetoPersona\Lista_Con_ObjetoPersona\obj\Debug\net6.0\refint\Lista_Con_ObjetoPersona.dll
+C:\Users\hp\source\repos\Lista_Con_ObjetoPersona\Lista_Con_ObjetoPersona\obj\Debug\net6.0\Lista_Con_ObjetoPersona.pdb
+C:\Users\hp\source\repos\Lista_Con_ObjetoPersona\Lista_Con_ObjetoPersona\obj\Debug\net6.0\Lista_Con_ObjetoPersona.genruntimeconfig.cache
+C:\Users\hp\source\repos\Lista_Con_ObjetoPersona\Lista_Con_ObjetoPersona\obj\Debug\net6.0\ref\Lista_Con_ObjetoPersona.dll
